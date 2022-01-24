@@ -1,0 +1,2 @@
+# 152-178-Dev-ASP.NET-Web-Apps
+In this course students will learn to use .NET Framework tools and technologies to develop advanced ASP.NET MVC applications. The focus will be on coding activities that improve performance and scalability of Web site applications. ASP.NET MVC will be introduced and compared with Web Forms so that students know when each should/could be used. This course will help prepare students for exam 70-486.
