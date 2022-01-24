@@ -4,7 +4,7 @@ In this course students will learn to use .NET Framework tools and technologies 
 ## Which version of Visual Studio should you get?
 You'll need a working version of Visual Studio.  You can download it for free.   The primary focus is on Web development using ASP.NET framework, so it is important that you must already know the fundamentals of web development (HTML, CSS, JavaScript).  Visit the link below to dowload and install a version on your system.  It is recommended that you install the latest version.  Visual Studio comes in three flavors:  `Community`, `Professional`, `Enterprise`.
 
-The `Community edition` is preferred for use in the Web program (we love free and open source stuff), since it is free and is nearly identical to the Professional version. Although  if you are also in the Software Developer program at Gateway, you should choose the Enterprise version. The Professional and Enterprise versions require a license key, which you can grab from Azure after you find the software, as described below.
+The `Community edition` is preferred for use in the Web program (we love free and open source stuff), since it is free and is nearly identical to the Professional version. The `Professional` and `Enterprise` versions require a license key, which you can grab from Azure after you find the software, as described below.
 
 This version only requires a Microsoft Account of any type to activate and use (and is therefore recommended). You can also download the trial versions of Professional and Enterprise through this site as well. If you want to unlock the products, you will need a license key, which you can get from Microsoft's Azure Platform for free (keep reading).
 
